@@ -1,6 +1,7 @@
 # Healthcare-Portfolio-Project
 
 ### Table of contents
+
 ----------------------
 
 - [Project Overview](#Project Overview)
