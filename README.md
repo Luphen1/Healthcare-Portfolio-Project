@@ -6,17 +6,10 @@
 ----------------------
 
 - [Project Overview](#Project Overview)
-  
 - [Data Source](#Data Source)
-  
-- [Tool](#Tools)
-  
-- [Data Cleaning / Data Analysis](#Data Cleaning / Data Analysis)
-  
+- [Tool](#Tool)
+- [Data Cleaning / Data Analysis](#Data Cleaning / Data Analysis)  
 - [Explanatory Data Analysis](#Explanatory Data Analysis)
-  
 - [Data Analysis](#Data Analysis)
-  
-- [Result/Finding)(#Result / Findings)
-  
+- [Result/Findings)(#Result/Findings)
 - [Recommendation](#Recommendation)
