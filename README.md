@@ -7,9 +7,10 @@
 
 - [Project Overview](#Project_Overview)
   
-The dataset includes information on hospital admissions, covering patient demographics, medical 
-conditions, admission details and billing amount.
-This project aims to analyze hospital admission data to identify trends and insights that can inform healthcare decision-making. The primary research question driving this analysis was:
+ The dataset includes information on hospital admissions, covering patient demographics, medical 
+ conditions, admission details and billing amount.
+ This project aims to analyze hospital admission data to identify trends and insights that can inform healthcare decision-making. The primary research question driving this 
+ analysis was:
 
 *- What medical condition had the highest billing amount?*
 
