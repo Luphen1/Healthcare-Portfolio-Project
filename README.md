@@ -9,7 +9,7 @@
 
 - [Data Source](#Data_Source)
   
-- [Tool](#Tool)
+- [Tools](#Tools)
   
 - [Data Cleaning/Data Analysis](#Data_Cleaning/Data_Analysis)
   
