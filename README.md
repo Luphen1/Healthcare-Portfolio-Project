@@ -17,6 +17,6 @@
   
 - [Data Analysis](#Data_Analysis)
   
-- [Result/Findings](#Result/Findings)
+- [Results/Findings](#Results/Findings)
   
 - [Recommendation](#Recommendation)
