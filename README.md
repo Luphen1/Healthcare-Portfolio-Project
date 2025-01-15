@@ -11,12 +11,12 @@
   
 - [Tool](#Tool)
   
-- [Data Cleaning / Data Analysis](#Data_Cleaning / Data_Analysis)
+- [Data Cleaning/Data Analysis](#Data_Cleaning/Data_Analysis)
   
-- [Explanatory Data Analysis](#Explanatory Data Analysis)
+- [Explanatory Data Analysis](#Explanatory_Data_Analysis)
   
 - [Data Analysis](#Data_Analysis)
   
-- [Result/Findings)(#Result/Findings)
+- [Result/Findings](#Result/Findings)
   
 - [Recommendation](#Recommendation)
