@@ -11,11 +11,11 @@ The dataset includes information on hospital admissions, covering patient demogr
 conditions, admission details and billing amount.
 This project aims to analyze hospital admission data to identify trends and insights that can inform healthcare decision-making. The primary research question driving this analysis was:
 
-1.What medical condition has the highest billing amount.
-2. What age group had to e highest intake of billing cost.
-3.
-
-
+- What medical condition had the highest billing amount?
+- What age group had to the highest intake of billing amount?
+- What percentage rate of gender are in the datset?
+- Finding if there are correlation relationship betweenage,bill amount, and room number etc.....
+  
 This 
 analysis would enhance hospital management decisions, optimizing patient care, and minimizing 
 costs.
