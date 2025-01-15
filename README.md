@@ -30,6 +30,7 @@ costs.
  (The primary datasets utilized for the project was downloaded from the provided link)
   
 - [Tools](#Tools)
+  
  I analyzed a dataset of 1000 records using Python JupyterNotebook, leveraging libraries such as pandas for data manipulation, NumPy for statistical insights, and seaborn and matplotlib for data visualization. 
   
 - [Data Cleaning/Data Analysis](#Data_Cleaning/Data_Analysis)
