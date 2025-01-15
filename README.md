@@ -30,10 +30,22 @@ costs.
  (The primary datasets utilized for the project was downloaded from the provided link)
   
 - [Tools](#Tools)
+ I analyzed a dataset of 1000 records using Python JupyterNotebook, leveraging libraries such as pandas for data manipulation, NumPy for statistical insights, and seaborn and matplotlib for data visualization. 
   
 - [Data Cleaning/Data Analysis](#Data_Cleaning/Data_Analysis)
+
+In the initial data preparation, I performed the following tasks below:
+
+Data loading and inspection.
+Handling for missing values.
+Checking for duplicate values.
+Data preprocessing.
+
   
 - [Explanatory Data Analysis](#Explanatory_Data_Analysis)
+  
+  EDA involved exploring the supermarket dataset to answer key questions such as:
+  
   
 - [Data Analysis](#Data_Analysis)
   
