@@ -77,9 +77,6 @@ EDA involved exploring the supermarket dataset to answer key questions such as:
 13.Find top 5 doctor performance analysis.
   
   
-  
-- [Data Analysis](#Data_Analysis)
-  
 - [Results/Findings](#Results/Findings)
   
 - [Recommendation](#Recommendation)
