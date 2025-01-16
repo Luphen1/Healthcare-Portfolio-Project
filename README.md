@@ -27,8 +27,8 @@ costs.
 
 - [Data Source](#Data_Source)
 
-  The primary dataset utilized for the project can be downloaded from the provided link [The primary datasets utilized for the project was downloaded from the provided link] 
- (The primary datasets utilized for the project was downloaded from the provided link)
+  The primary dataset utilized for the project can be downloaded from the provided link [https://github.com/Luphen1/Healthcare-Portfolio-Project/blob/main/Healthcare_Project.xlsx](https://github.com/Luphen1/Healthcare-Portfolio-Project/blob/main/Healthcare_Project.xlsx] 
+ (https://github.com/Luphen1/Healthcare-Portfolio-Project/blob/main/Healthcare_Project.xlsx )
   
 - [Tools](#Tools)
   
