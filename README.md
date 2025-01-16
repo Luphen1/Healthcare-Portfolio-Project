@@ -46,9 +46,10 @@ Data preprocessing.
   
 - [Explanatory Data Analysis](#Explanatory_Data_Analysis)
   
-  EDA involved exploring the supermarket dataset to answer key questions such as:
+EDA involved exploring the supermarket dataset to answer key questions such as:
+  
 
-  1.What age group had the highest intake of billing cost?
+1.What age group had the highest intake of billing cost?
   
 2.What was the medical condition with the highest billing cost?
 
