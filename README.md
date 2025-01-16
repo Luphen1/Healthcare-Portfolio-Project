@@ -62,7 +62,7 @@ EDA involved exploring the supermarket dataset to answer key questions such as:
 6.What was the percentage ratio of gender?
 
 
-7. Find the correlation relationship between Age, Bill amount, and Room Number.
+7.Find the correlation relationship between Age, Bill amount, and Room Number.
    
 8.What was the percentage ratio of test results?
 
