@@ -7,7 +7,7 @@
 
 - [Project Overview](#Project_Overview)
   
- The dataset includes information on hospital admissions, covering patient demographics, medical 
+  The dataset includes information on hospital admissions, covering patient demographics, medical 
  conditions, admission details and billing amount.
  This project aims to analyze hospital admission data to identify trends and insights that can inform healthcare decision-making. The primary research question driving this 
  analysis was:
@@ -32,16 +32,15 @@ costs.
   
 - [Tools](#Tools)
   
- I analyzed a dataset of 1000 records using Python JupyterNotebook, leveraging libraries such as pandas for data manipulation, NumPy for statistical insights, and seaborn and matplotlib for data visualization. 
+ I analyzed a dataset of 1000 records using Python JupyterNotebook, leveraging libraries such as pandas for data manipulation, NumPy for statistical insights, seaborn and matplotlib for data visualization. 
   
 - [Data Cleaning/Data Analysis](#Data_Cleaning/Data_Analysis)
 
 In the initial data preparation, I performed the following tasks below:
 
 Data loading and inspection.
-Handling for missing values.
-Checking for duplicate values.
-Data preprocessing.
+
+Checking for duplicate values and inconsistencies.
 
   
 - [Explanatory Data Analysis](#Explanatory_Data_Analysis)
