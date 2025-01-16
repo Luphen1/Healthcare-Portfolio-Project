@@ -9,17 +9,15 @@
   
   The dataset includes information on hospital admissions, covering patient demographics, medical 
  conditions, admission details and billing amount.
- This project aims to analyze hospital admission data to identify trends and insights that can inform healthcare decision-making. The primary research question driving this 
- analysis was:
+ Conducted a comprehensive analysis of healthcare data to identify trends, patterns, and correlations. Utilized statistical analysis and data visualization techniques to extract insights from the data.
 
-*- What medical condition had the highest billing amount?*
-
-*- What age group had to the highest intake of billing amount?*
-
-*- What percentage rate of gender are in the datset?*
-
-*- Finding if there are correlation relationship betweenage,bill amount, and room number etc..*
-  
+*Key Findings*
+- Identified the elderly age group as having the highest billing amount.
+- Determined that the medical condition with the highest billing cost was associated with a patient intake of 1,703.
+- Discovered that blood type AB+ had the most expensive billing amount.
+- Analyzed admission types and found that Urgent admissions had the highest billing cost.
+- Identified Cigna as the insurance provider with the most expensive billing cost.
+- Determined the proportion of female to male patients and analyzed test results.
 This 
 analysis would enhance hospital management decisions, optimizing patient care, and minimizing 
 costs.
