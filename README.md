@@ -47,6 +47,33 @@ Data preprocessing.
 - [Explanatory Data Analysis](#Explanatory_Data_Analysis)
   
   EDA involved exploring the supermarket dataset to answer key questions such as:
+
+  1.What age group had the highest intake of billing cost?
+  
+2.What was the medical condition with the highest billing cost?
+
+3.Find the blood group with the highest billing cost.
+
+4.Find admission type with the most patient intake, displaying their respective billing cost.
+
+5.Which insurance provider tends to be more expensive?
+
+6.What was the percentage ratio of gender?
+
+7. Find the correlation relationship between Age, Bill amount, and Room Number.
+   
+8.What was the percentage ratio of test results?
+
+9.Find the top 10 patients with the highest billing cost.
+
+10.Find the top 10 patients with the least billing amount.
+
+11.What year has the most patient admission intake?
+
+12.What year had the most patient discharge?
+
+13.Find top 5 doctor performance analysis.
+  
   
   
 - [Data Analysis](#Data_Analysis)
