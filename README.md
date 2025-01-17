@@ -103,15 +103,21 @@ The percentage ratio of test results showed that abnormal patients accounted for
 **9. Top Ten Patients with the Highest and Lowest Billing Costs**
 Using statistical analysis, I identified the top ten patients with the highest billing costs, including James Johnson with a billing amount of $159,668.26, and the top ten patients with the lowest billing costs, including Ana Adams with a billing amount of $1,000.18.
 
-**10. Seasonality Trend for Year of Most Admitted Patients**
-The seasonality trend showed that the year with the most admitted patients was 2016, with a billing cost of $52,427,471.85. In contrast, the year with the least admitted patients was 2018, with a billing cost of $7,523,125.20.
+**10. Seasonality Trend for Patient Admissions**
+
+***Peak Admission Year***
+In 2011, the hospital experienced its peak admission year, with 2,063 patients admitted and a corresponding billing cost of $52,427,471.85.
+
+***Lowest Admission Year***
+In contrast, 2018 recorded the lowest number of patient admissions, with only 303 patients admitted, resulting in a substantially lower billing cost of $7,523,125.20.
+
 
 **11. Seasonality Trend for Patient Discharges**
 
-Peak Discharge Year*
+***Peak Discharge Year***
 In 2017, the hospital experienced its peak discharge year, with 2,071 patients discharged and a corresponding billing cost of $52,612,045.90.
 
-*Lowest Discharge Year*
+***Lowest Discharge Year***
 In contrast, 2018 recorded the lowest number of patient discharges, with only 220 patients discharged, resulting in a substantially lower billing cost of $5,422,483.85.
 
 
