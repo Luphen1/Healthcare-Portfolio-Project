@@ -106,8 +106,15 @@ Using statistical analysis, I identified the top ten patients with the highest b
 **10. Seasonality Trend for Year of Most Admitted Patients**
 The seasonality trend showed that the year with the most admitted patients was 2016, with a billing cost of $52,427,471.85. In contrast, the year with the least admitted patients was 2018, with a billing cost of $7,523,125.20.
 
-**11. Seasonality Trend for Year of Most Discharged Patients**
-The seasonality trend showed that the year with the most discharged patients was 2017, with a billing cost of $52,612,045.90. In contrast, the year with the least discharged patients was 2018, with a billing cost of $5,422,483.85.
+**11. Seasonality Trend for Patient Discharges**
+
+Peak Discharge Year*
+In 2017, the hospital experienced its peak discharge year, with 2,071 patients discharged and a corresponding billing cost of $52,612,045.90.
+
+*Lowest Discharge Year*
+In contrast, 2018 recorded the lowest number of patient discharges, with only 220 patients discharged, resulting in a substantially lower billing cost of $5,422,483.85.
+
+
 
 **12. Doctor Performance Analysis**
 Using detailed analysis, I identified the top five doctors with the highest billing costs for patients, including Micheal Johnson with a billing amount of $181,576.48.
