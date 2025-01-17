@@ -11,7 +11,7 @@
  conditions, admission details and billing amount.
  Conducted a comprehensive analysis of healthcare data to identify trends, patterns, and correlations. Utilized statistical analysis and data visualization techniques to extract insights from the data.
 
-*Key Findings*
+***Key Findings***
 - Identified the elderly age group as having the highest billing amount.
 - Determined that the medical condition with the highest billing cost was associated with a patient intake of 1,703.
 - Discovered that blood type AB+ had the most expensive billing amount.
@@ -36,9 +36,9 @@ I analyzed a dataset of 1000 records using Python JupyterNotebook, leveraging li
 
 In the initial data preparation, I performed the following tasks below:
 
-Data loading and inspection.
+- Data loading and inspection.
 
-Checking for duplicate values and inconsistencies.
+- Checking for duplicate values and inconsistencies.
 
   
 - [Explanatory Data Analysis](#Explanatory_Data_Analysis)
@@ -105,21 +105,21 @@ Using statistical analysis, I identified the top ten patients with the highest b
 
 **10. Seasonality Trend for Patient Admissions:**
 
-***Peak Admission Year***
+***Peak Admission Year-***
 
 In 2011, the hospital experienced its peak admission year, with 2,063 patients admitted and a corresponding billing cost of $52,427,471.85.
 
-***Lowest Admission Year***
+***Lowest Admission Year-***
 
 In contrast, 2018 recorded the lowest number of patient admissions, with only 303 patients admitted, resulting in a substantially lower billing cost of $7,523,125.20.
 
 
 **11. Seasonality Trend for Patient Discharges:**
 
-***Peak Discharge Year***
+***Peak Discharge Year-***
 In 2017, the hospital experienced its peak discharge year, with 2,071 patients discharged and a corresponding billing cost of $52,612,045.90.
 
-***Lowest Discharge Year***
+***Lowest Discharge Year-***
 In contrast, 2018 recorded the lowest number of patient discharges, with only 220 patients discharged, resulting in a substantially lower billing cost of $5,422,483.85.
 
 
